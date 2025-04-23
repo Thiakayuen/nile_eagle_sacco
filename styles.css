@@ -50,7 +50,7 @@ nav {
 
 .logo span {
     font-size: 1.1rem;
-    color: pink;
+    color: #ffffff;
 }
 
 .slogan {
@@ -478,6 +478,7 @@ nav {
         text-align: center;
         transition: 0.3s;
         padding: 20px 0;
+        border-top: #ffffff 1px solid;
     }
 
     .nav-links.active {
